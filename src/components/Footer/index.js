@@ -10,7 +10,7 @@ function Footer () {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("../../assets/images/github-logo.png")}
+						src={require("../../assets/images/github-logo2.png")}
 						alt="Github"
 						className="logo"
 					></img>
@@ -36,7 +36,7 @@ function Footer () {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("../../assets/images/youtube-logo.png")}
+						src={require("../../assets/images/youtube-logo3.png")}
 						alt="Youtube"
 						className="logo"
 					></img>
